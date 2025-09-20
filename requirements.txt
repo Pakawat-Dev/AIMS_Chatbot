@@ -1,0 +1,16 @@
+openai
+langchain
+langchain-community
+langchain-openai
+langgraph
+python-dotenv
+tiktoken
+faiss-cpu
+pydantic
+numpy
+rank-bm25
+sentence-transformers
+scikit-learn
+docx2txt
+pypdf
+unstructured[html]
